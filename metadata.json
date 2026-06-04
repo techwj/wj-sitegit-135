@@ -1,0 +1,59 @@
+{
+  "siteId": "rabbit-care-guide",
+  "generatedAt": "2026-06-04T11:36:22.316901",
+  "categories": [
+    "beginner-rabbit-care-guide",
+    "advanced-rabbit-care-guide",
+    "tips-rabbit-care-guide",
+    "history-rabbit-care-guide",
+    "trending-rabbit-care-guide",
+    "tutorials-rabbit-care-guide"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-rabbit-care-guide",
+      "category_name": "Beginner Rabbit Care Guide"
+    },
+    {
+      "category_slug": "advanced-rabbit-care-guide",
+      "category_name": "Advanced Rabbit Care Guide"
+    },
+    {
+      "category_slug": "tips-rabbit-care-guide",
+      "category_name": "Rabbit Care Guide Tips"
+    },
+    {
+      "category_slug": "history-rabbit-care-guide",
+      "category_name": "Rabbit Care Guide History"
+    },
+    {
+      "category_slug": "trending-rabbit-care-guide",
+      "category_name": "Trending Rabbit Care Guide"
+    },
+    {
+      "category_slug": "tutorials-rabbit-care-guide",
+      "category_name": "Rabbit Care Guide Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "rabbit-care-guide",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "centered",
+    "site_title": "Rabbit Care Guide Central",
+    "articles_per_row": 3
+  }
+}
